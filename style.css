@@ -1,0 +1,25 @@
+body{
+/*     background-color: rgb(252, 0, 168); */
+/*     font-family: cursive; */
+}
+.meio {
+    text-align: center;
+}
+article h1{
+    /* background-color: hotpink; */
+    /* color: rgb(255, 255, 255) */
+/*     color: hotpink */
+}
+div h2{
+/*    background-color: hotpink; */
+    color: rgb(0, 0, 0)
+}
+div{
+    padding:0.5px;
+/*     border: 3px solid hotpink; */
+    
+}
+form fieldset {
+   padding:0.5px;
+/*    border: 3px solid hotpink; */
+}
